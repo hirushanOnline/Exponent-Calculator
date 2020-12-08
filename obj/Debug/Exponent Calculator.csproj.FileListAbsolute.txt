@@ -1,0 +1,7 @@
+C:\Users\hirus\source\repos\Exponent Calculator\Exponent Calculator\bin\Debug\Exponent Calculator.exe.config
+C:\Users\hirus\source\repos\Exponent Calculator\Exponent Calculator\bin\Debug\Exponent Calculator.exe
+C:\Users\hirus\source\repos\Exponent Calculator\Exponent Calculator\bin\Debug\Exponent Calculator.pdb
+C:\Users\hirus\source\repos\Exponent Calculator\Exponent Calculator\obj\Debug\Exponent Calculator.csprojAssemblyReference.cache
+C:\Users\hirus\source\repos\Exponent Calculator\Exponent Calculator\obj\Debug\Exponent Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hirus\source\repos\Exponent Calculator\Exponent Calculator\obj\Debug\Exponent Calculator.exe
+C:\Users\hirus\source\repos\Exponent Calculator\Exponent Calculator\obj\Debug\Exponent Calculator.pdb
